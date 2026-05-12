@@ -18,4 +18,8 @@
 - Git & GitHub
 - GitHub Actions
 - SonarQube
-- Open Policy Agent (OPA)
+
+Staging branch update
+
+Development branch update
+
