@@ -1,0 +1,2 @@
+No high severity vulnerabilities found.
+Security validation passed.

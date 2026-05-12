@@ -1,0 +1,2 @@
+OPA policy validation completed successfully.
+Deployment configuration validated.
