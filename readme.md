@@ -20,4 +20,6 @@
 - SonarQube
 - Open Policy Agent (OPA)
 
-Staging branch updategit
+Staging branch update
+
+Development branch update
